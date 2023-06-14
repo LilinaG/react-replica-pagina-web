@@ -1,13 +1,15 @@
 import './nonColorButton.css'
 
-function NonColorButton() {
+function NonColorButton({button_content}) {
 
     return(
-        
+        <>
+            <button className='button2'>
+                {button_content}
+            </button>
+        </>
     )
 
 }
 
-
-
-export dafault NonColorButton;
+export default NonColorButton;
