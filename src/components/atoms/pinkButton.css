@@ -1,0 +1,14 @@
+button{
+    display: flex;
+    justify-content: center;
+    padding: 0.9em 1.3em;
+    background-color: #EA6371;
+    font-family: Open Sans;
+    color: white;
+    text-decoration: none;
+    border-radius: 2rem;
+    font-weight: 600;
+    vertical-align: middle;
+    border: none;
+    border-bottom: #EA6371;
+  }
