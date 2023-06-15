@@ -1,12 +1,13 @@
 import NonColorButton from "./NonColorButton";
 import './navbar.css';
 import './nonColorButton.css';
+import logo from '../assets/images/logo.svg';
 
 function Navbar() {
     return (
     <>
      <header> 
-        <div className="navbar-logo"><img src="../src/assets/images/logo.svg"/></div>
+        <div className="navbar-logo"><img src= {logo}alt='Logo'/></div>
 
         <nav className="menu">
             <a href="#description">DESCRIPTION</a>
