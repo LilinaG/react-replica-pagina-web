@@ -4,9 +4,8 @@ import {BrowserRouter, Routes, Route} from "react-router-dom";
 //Pages
 
 import LandingPage from "../components/pages/LandingPage";
-import NavBar from "../components/pages/navBar";
 import Description from "../components/pages/Description";
-import Tracking from "../components/pages/Traking";
+import Tracking from "../components/pages/Tracking";
 import UserTestimonials from "../components/pages/UserTestimonials";
 import Numbers from "../components/pages/Numbers";
 import ContactUs from "../components/pages/ContactUs";

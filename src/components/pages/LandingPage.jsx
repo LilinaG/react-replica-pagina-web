@@ -1,13 +1,13 @@
+import Navbar from "../atoms/NavBar";
+
+
 function LandingPage () {
 
     return (
         <>
-            <h1>Aquí va la sección LandingPage</h1>
-
+           <Navbar> </Navbar>
         </>
-    )
-
+    );
 }
-
 
 export default LandingPage;

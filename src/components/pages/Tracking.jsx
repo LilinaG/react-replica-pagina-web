@@ -7,6 +7,6 @@ function Traking () {
         </>
     );
 
-};
+}
 
 export default Traking;

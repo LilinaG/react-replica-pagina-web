@@ -1,0 +1,30 @@
+header{
+    height: 4.688em;
+    background-color: #F8FAFD;
+    padding: 0; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.navbar-logo{
+    width: 6rem;
+    height: auto;
+    margin-left: 5%;
+}
+
+.menu a{
+    color:#666666;
+    text-decoration: none;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 0 0.625em;
+    transition: 0.4s;
+}
+
+.menu a:hover,
+.show-menu:hover,
+.hide-menu:hover{
+  color: #EA6371;
+}

@@ -357,7 +357,7 @@ color: #777777;
       width: 100%;
       text-align: center;
     }*/
-}
+
 .btn-lightbox {
     box-sizing: border-box;
     display: flex;
@@ -688,7 +688,6 @@ color: #777777;
   }
 
   .full-width-line {
-    margin-top:;
     width: 100%;
     border: none;
     border-top: 0.063em solid #666666;
