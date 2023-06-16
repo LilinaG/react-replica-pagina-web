@@ -1,4 +1,5 @@
 import Navbar from "../atoms/NavBar";
+import Banner from "../atoms/Banner";
 
 
 function LandingPage () {
@@ -6,6 +7,7 @@ function LandingPage () {
     return (
         <>
            <Navbar> </Navbar>
+           <Banner></Banner>
         </>
     );
 }
